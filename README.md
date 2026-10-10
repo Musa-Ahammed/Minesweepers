@@ -2,6 +2,9 @@
 
 A four-wheel, radio-controlled metal-detection prototype using an Arduino Mega 2560, an inductive detector, and three ultrasonic sensors. It reports changes in the detector signal through an LCD, LED, buzzer, and Bluetooth telemetry. A metal-detection event does not identify an explosive.
 
+<img width="1204" height="626" alt="minesweep2" src="https://github.com/user-attachments/assets/6a31fbdd-dbaf-4eec-87b9-aced6917eeb7" />
+
+
 ## How it works
 
 - RC throttle and steering commands control the left and right motor groups.
