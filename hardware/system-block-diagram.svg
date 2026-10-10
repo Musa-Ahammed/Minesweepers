@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="55" font-family="Arial" font-size="30" font-weight="bold">Minesweeper Robot – System Architecture</text>
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#222"/></marker></defs>
+<rect x="50" y="270" width="190" height="90" rx="12" fill="#f4f4f4" stroke="#222" stroke-width="2"/>
+<text x="145.0" y="315.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="20">3S LiPo</text>
+<rect x="290" y="270" width="210" height="90" rx="12" fill="#f4f4f4" stroke="#222" stroke-width="2"/>
+<text x="395.0" y="315.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="20">Fuse + Switch</text>
+<rect x="570" y="110" width="230" height="90" rx="12" fill="#f4f4f4" stroke="#222" stroke-width="2"/>
+<text x="685.0" y="155.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="20">Dual Cytron Driver</text>
+<rect x="910" y="110" width="230" height="90" rx="12" fill="#f4f4f4" stroke="#222" stroke-width="2"/>
+<text x="1025.0" y="155.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="20">4 Motors
+2 per side</text>
+<rect x="570" y="270" width="230" height="90" rx="12" fill="#f4f4f4" stroke="#222" stroke-width="2"/>
+<text x="685.0" y="315.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="20">5 V Buck</text>
+<rect x="910" y="270" width="230" height="90" rx="12" fill="#f4f4f4" stroke="#222" stroke-width="2"/>
+<text x="1025.0" y="315.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="20">Mega 2560</text>
+<rect x="570" y="450" width="230" height="90" rx="12" fill="#f4f4f4" stroke="#222" stroke-width="2"/>
+<text x="685.0" y="495.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="20">Metal Detector</text>
+<rect x="910" y="450" width="230" height="90" rx="12" fill="#f4f4f4" stroke="#222" stroke-width="2"/>
+<text x="1025.0" y="495.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="20">Coil / Sensors</text>
+<line x1="240" y1="315" x2="290" y2="315" stroke="#222" stroke-width="3" marker-end="url(#a)"/>
+<line x1="500" y1="315" x2="570" y2="155" stroke="#222" stroke-width="3" marker-end="url(#a)"/>
+<line x1="800" y1="155" x2="910" y2="155" stroke="#222" stroke-width="3" marker-end="url(#a)"/>
+<line x1="500" y1="315" x2="570" y2="315" stroke="#222" stroke-width="3" marker-end="url(#a)"/>
+<line x1="800" y1="315" x2="910" y2="315" stroke="#222" stroke-width="3" marker-end="url(#a)"/>
+<line x1="800" y1="315" x2="910" y2="495" stroke="#222" stroke-width="3" marker-end="url(#a)"/>
+<line x1="800" y1="495" x2="910" y2="495" stroke="#222" stroke-width="3" marker-end="url(#a)"/>
+</svg>
